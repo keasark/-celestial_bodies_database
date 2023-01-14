@@ -1,4 +1,4 @@
-# -celestial_bodies_database
+# celestial_bodies_database
 This project uses PostgreSQL to create a database of celestial bodies. 
 It has 1 main database named "universe". 
 The universe database includes 5 tables which are galaxy, star, planet, moon and sun. 
